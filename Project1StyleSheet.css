@@ -8,10 +8,8 @@
     Height: 160px;
     padding: 15px;
     background: grey;
-    color: white;
     font-size: 40px;
     text-align: center;
-    border: dashed;
 }
 
 .art1{
@@ -20,7 +18,6 @@
     padding: 15px;
     font-size: 40px;
     text-align: center;
-    border: dashed;
 }
 
 .art2{
@@ -28,7 +25,6 @@
     padding: 15px;
     font-size: 40px;
     text-align: center;
-    border: dashed;
 }
 
 .art3{
@@ -36,21 +32,16 @@
     padding: 15px;
     font-size: 40px;
     text-align: center;
-    border: dashed;
 }
 
 p{
     text-align: center;
-    color: white;
-    border: dashed;
 }
 
 
 .title1
 {
      font-size: 60px;
-    color: white;
-    border: dashed;
  }
 
 
@@ -58,8 +49,6 @@ p{
 [class*='title']
 {
     font-family: "Brush Script MT", cursive;
-    color: white;
-    border: dashed;
 }
 
 .col-1 {
@@ -67,26 +56,24 @@ p{
      /*height: 10px;*/
      font-size: 25px;
      marigin: 10px;
-    border: dashed;
 
  }
 
 .row1{
     overflow: auto;
     height: 150px;
-    border: dashed;
 
 }
 
 .row2{
 
-    border: dashed;
+
     height:300px;
 }
 
 .row3{
     overflow: auto;
-    border: dashed;
+
     height:400px;
 }
 
@@ -95,7 +82,6 @@ p{
     height: 100px;
     font-size: 16px;
     marigin: 10px;
-    border: dashed;
 
 }
 
@@ -104,7 +90,6 @@ p{
     height: 100px;
     font-size: 20px;
     marigin: 10px;
-    border: dashed;
 
 }
 
@@ -113,8 +98,6 @@ p{
     min-height: 20px;
     /*-- our gutter inside each cell around it's content, change the value to see how it works--*/
     padding: 15px;
-    color: white;
-    border: dashed;
 }
     /*border: .5px solid red;
     /**********Another way to set background color: Change the number values in it and see what happens**********/
